@@ -38,7 +38,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="img/temperatura.jpg" alt="Temperatura">
+      <img src="img/temperatura.PNG" alt="Temperatura">
       <div class="container">
         <p>Sensor de temperatura</p>
         <a href="automacoes.php?id=temperatura">
